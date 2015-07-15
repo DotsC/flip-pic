@@ -1,2 +1,2 @@
 # flip-pic
-Flip Picture Widget
+Flip Picture Widget for Habitat.
